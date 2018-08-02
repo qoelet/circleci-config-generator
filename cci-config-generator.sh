@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Script to generate a CircleCI 2.0 `.circleci/config.yml` file
 # Please see the README for more details
